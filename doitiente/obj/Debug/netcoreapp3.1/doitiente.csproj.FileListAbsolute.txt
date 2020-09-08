@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\doitiente\bin\Debug\netcoreapp3.1\doitiente.exe
+C:\Users\Admin\source\repos\doitiente\bin\Debug\netcoreapp3.1\doitiente.deps.json
+C:\Users\Admin\source\repos\doitiente\bin\Debug\netcoreapp3.1\doitiente.runtimeconfig.json
+C:\Users\Admin\source\repos\doitiente\bin\Debug\netcoreapp3.1\doitiente.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\doitiente\bin\Debug\netcoreapp3.1\doitiente.dll
+C:\Users\Admin\source\repos\doitiente\bin\Debug\netcoreapp3.1\doitiente.pdb
+C:\Users\Admin\source\repos\doitiente\obj\Debug\netcoreapp3.1\doitiente.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\doitiente\obj\Debug\netcoreapp3.1\doitiente.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\doitiente\obj\Debug\netcoreapp3.1\doitiente.AssemblyInfo.cs
+C:\Users\Admin\source\repos\doitiente\obj\Debug\netcoreapp3.1\doitiente.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\doitiente\obj\Debug\netcoreapp3.1\doitiente.dll
+C:\Users\Admin\source\repos\doitiente\obj\Debug\netcoreapp3.1\doitiente.pdb
+C:\Users\Admin\source\repos\doitiente\obj\Debug\netcoreapp3.1\doitiente.genruntimeconfig.cache
