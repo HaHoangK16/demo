@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.exe
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.deps.json
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.dll
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.pdb
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.dll
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.pdb
+C:\Users\Admin\Desktop\Codegym\demo\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.genruntimeconfig.cache
