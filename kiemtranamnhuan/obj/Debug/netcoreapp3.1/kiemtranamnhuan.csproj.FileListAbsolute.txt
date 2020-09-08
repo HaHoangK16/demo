@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.exe
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.deps.json
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.dll
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.pdb
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.dll
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.pdb
+C:\Users\Admin\Desktop\Codegym\demo\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.genruntimeconfig.cache
