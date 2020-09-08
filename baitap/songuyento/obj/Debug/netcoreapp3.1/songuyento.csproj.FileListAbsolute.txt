@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\bin\Debug\netcoreapp3.1\songuyento.exe
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\bin\Debug\netcoreapp3.1\songuyento.deps.json
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\bin\Debug\netcoreapp3.1\songuyento.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\bin\Debug\netcoreapp3.1\songuyento.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\bin\Debug\netcoreapp3.1\songuyento.dll
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\bin\Debug\netcoreapp3.1\songuyento.pdb
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\obj\Debug\netcoreapp3.1\songuyento.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\obj\Debug\netcoreapp3.1\songuyento.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\obj\Debug\netcoreapp3.1\songuyento.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\obj\Debug\netcoreapp3.1\songuyento.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\obj\Debug\netcoreapp3.1\songuyento.dll
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\obj\Debug\netcoreapp3.1\songuyento.pdb
+C:\Users\Admin\Desktop\Codegym\demo\baitap\songuyento\obj\Debug\netcoreapp3.1\songuyento.genruntimeconfig.cache
