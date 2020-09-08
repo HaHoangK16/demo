@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.exe
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.deps.json
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.dll
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.pdb
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.dll
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.pdb
+C:\Users\Admin\Desktop\Codegym\demo\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.genruntimeconfig.cache
