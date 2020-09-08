@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\demo\menu\bin\Debug\netcoreapp3.1\menu.exe
+C:\Users\Admin\Desktop\Codegym\demo\menu\bin\Debug\netcoreapp3.1\menu.deps.json
+C:\Users\Admin\Desktop\Codegym\demo\menu\bin\Debug\netcoreapp3.1\menu.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\demo\menu\bin\Debug\netcoreapp3.1\menu.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\demo\menu\bin\Debug\netcoreapp3.1\menu.dll
+C:\Users\Admin\Desktop\Codegym\demo\menu\bin\Debug\netcoreapp3.1\menu.pdb
+C:\Users\Admin\Desktop\Codegym\demo\menu\obj\Debug\netcoreapp3.1\menu.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\demo\menu\obj\Debug\netcoreapp3.1\menu.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\menu\obj\Debug\netcoreapp3.1\menu.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\demo\menu\obj\Debug\netcoreapp3.1\menu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\menu\obj\Debug\netcoreapp3.1\menu.dll
+C:\Users\Admin\Desktop\Codegym\demo\menu\obj\Debug\netcoreapp3.1\menu.pdb
+C:\Users\Admin\Desktop\Codegym\demo\menu\obj\Debug\netcoreapp3.1\menu.genruntimeconfig.cache
