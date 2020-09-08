@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.exe
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.deps.json
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.dll
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.pdb
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.dll
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.pdb
+C:\Users\Admin\Desktop\Codegym\demo\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.genruntimeconfig.cache
