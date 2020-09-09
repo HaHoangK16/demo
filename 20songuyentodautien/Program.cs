@@ -1,18 +1,17 @@
-﻿using System;
+
+using System;
 using System.Text;
 namespace _20songuyentodautien
 {
     class Program
     {
-        static void Main(string[] args)
+        static int rs(int i, int index, int count)
         {
-            Console.OutputEncoding = Encoding.UTF8;
-            Console.WriteLine("20 số nguyên tố đầu tiên là:");
-            int index = 0;
-            for (int i = 2; i < 200; i++)
+            index = 0;
+            for (i = 2; i < 200; i++)
             {
                 bool check = true;
-                for (int count = 2; count <= Math.Sqrt(i); count++)
+                for (count = 2; count <= Math.Sqrt(i); count++)
                 {
                     if (i % count == 0)
                     {
@@ -29,6 +28,13 @@ namespace _20songuyentodautien
                     }
                 }
             }
+            return 0;
+        }
+        static void Main(string[] args)
+        {
+            Console.OutputEncoding = Encoding.UTF8;
+            Console.WriteLine("20 số nguyên tố đầu tiên là:");
+            int i = Program.rs(0, 0, 0);
         }
     }
 }
